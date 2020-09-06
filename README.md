@@ -5,13 +5,14 @@
 ​For this project I took the preexisting webpage for Horiseon and optimizzed it for greater accessibility. The original website though functional, lacked alt atributes, proper HTML elements, or a descriptive page title. It also lacked internal documentation and had repetative classes and a lack of organization. The final page shown here, now is optomized for maximum accesability with increased SEO. All files include relevant internal documentation, logical CSS orginazation, optimal use of HTML5 Elements, and clear, consolidated, classes.
 ​
 ​**Key Features**
-​* Item 1
-* Item 2
-​1.  image alt atributes
-​2. organized CSS by page flow
-​3. internal documentation
-​4. simantic HTML5 elements
-​5. imporved page title
+​* 
+* image alt atributes
+* organized CSS by page flow
+* concise CSS
+* clear internal documentation
+* simatic HTML5 elements
+* optimized page title
+*
 ​
 ![Horiseon Services Page](Develop/assets/images/HoriseonServicesMockup.png)
 
