@@ -4,8 +4,8 @@
 ​
 ​For this project I took the preexisting webpage for Horiseon and optimizzed it for greater accessibility. The original website though functional, lacked alt tags, proper HTML elements, or a descriptive page title. It also lacked internal documentation and had repetative classes and a lack of organization. The final page shown here, now is optomized for maximum accesability with increased SEO. All files include relevant internal documentation, logical CSS orginazation, optimal use of HTML5 Elements, and clear, consolidated, classes.
 ​
-![Horiseon Services Page](/images/logo.png)
-Format: ![Alt Text](url)
+![Horiseon Services Page](Develop/assets/images/HoriseonServicesMockup.png)
+Format: ![image of webpage](url)
 
 The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
 ​
