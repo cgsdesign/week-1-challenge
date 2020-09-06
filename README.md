@@ -6,6 +6,8 @@
 ​
 ​For this project I took the pre-existing webpage for Horiseon and optimized it for greater accessibility. The original website though functional, lacked alt atributes, proper HTML elements, or a descriptive page title. It also lacked internal documentation and had repetative classes and a lack of organization. The final page shown here, now is optomized for maximum accesability with increased SEO. All files include relevant internal documentation, logical CSS orginazation, optimal use of HTML5 Elements, and clear, consolidated, classes.
 ​
+​
+​
 ​**Key Features**
 ​
 * image alt atributes
