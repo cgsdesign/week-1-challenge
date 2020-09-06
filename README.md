@@ -1,6 +1,8 @@
 # Horiseon Service Challenge - Week 1
 ​
 ## Accessibility Optimization of Horiseon Webpage
+
+### deployed at [Horiseon Service Challenge](https://cgsdesign.github.io/week-1-challenge/)
 ​
 ​For this project I took the pre-existing webpage for Horiseon and optimized it for greater accessibility. The original website though functional, lacked alt atributes, proper HTML elements, or a descriptive page title. It also lacked internal documentation and had repetative classes and a lack of organization. The final page shown here, now is optomized for maximum accesability with increased SEO. All files include relevant internal documentation, logical CSS orginazation, optimal use of HTML5 Elements, and clear, consolidated, classes.
 ​
@@ -11,27 +13,11 @@
 * concise CSS
 * clear internal documentation
 * simatic HTML5 elements
-* optimized page title
+* title is clear and consise
 
 
-​
 ![Horiseon Services Page](assets/images/HoriseonServicesMockup.png)
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-​
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
-​
-​
-## Installation
-​
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-​
-​
-## Usage 
-​
-Provide instructions and examples for use. Include screenshots as needed. 
-​
-​
 ## Credits
 ​
 Base website code curtasy of uwisconsin_coding_bootcamp
